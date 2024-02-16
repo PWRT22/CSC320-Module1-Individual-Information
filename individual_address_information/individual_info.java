@@ -32,7 +32,7 @@ public class individual_info {
 		System.out.println("What's your Zip Code?");
 		String zipCode = scnr.nextLine();
 		
-		
+		//Display the user's information
 		System.out.println("First Name: " + firstName);
 		System.out.println("Last Name: " + lastName);
 		System.out.println("Street Address: " + address);
