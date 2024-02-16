@@ -1,0 +1,20 @@
+Option #1: List Individual's Name and Address Information
+
+//This program will receive inputs from a fictional user and print the user's information on the display.
+
+1. Create Scanner Object for user input processing.
+2. Display "What's your First Name?".
+3. Assign the output to firstName variable.
+4. Display "What's your Last Name?".
+5. Assign the output to lastName variable.
+6. Display "What's your Street Address?".
+7. Assign the output to address variable.
+8. Display "What's your Address City?".
+9. Assign the output to city variable.
+10. Display "What's your Zip Code?".
+11. Assign the output to zipCode variable.
+12. Print ("First Name: " + firstName)
+13. Print ("Last Name: " + lastName)
+14. Print ("Street Address: " + address)
+15. Print ("City: " + city)
+16. Print ("Zip Code: " + zipCode)
